@@ -10,8 +10,17 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.3",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@varlet/nuxt": "^0.1.5",
     "nuxt": "^3.8.2",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@varlet/touch-emulator": "^3.11.3",
+    "@varlet/ui": "^3.11.3",
+    "cheerio": "^1.1.2",
+    "dayjs": "^1.11.13"
   }
 }
